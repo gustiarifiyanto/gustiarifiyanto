@@ -23,7 +23,7 @@ Maaf ya Batur-batur jika dalam penulisan nya belum rapih, masih dalam tahap bela
 - Google Colab
 - Android Studio
 
-# My Programming Language
+# My Programming Language :neckbeard:
 - Python Programming 😵‍💫
 - Dart Programming 🤒
 - Sql Programming 🤧
