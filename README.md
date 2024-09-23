@@ -11,10 +11,6 @@ Maaf ya Batur-batur jika dalam penulisan nya belum rapih, masih dalam tahap bela
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusti-arifiyanto/)
 
 # My Skills ✅
-- Python Programming 😵‍💫
-- Dart Programming 🤒
-- Sql Programming 🤧
-- Java Programming 😷
 - Data Visualization 🥶
 - Data Sciene 😰
 - Data Analyst 😮‍💨
@@ -26,3 +22,12 @@ Maaf ya Batur-batur jika dalam penulisan nya belum rapih, masih dalam tahap bela
 - Postgre Sql
 - Google Colab
 - Android Studio
+
+# My Programming Language
+- Python Programming 😵‍💫
+- Dart Programming 🤒
+- Sql Programming 🤧
+- Java Programming 😷
+
+
+
