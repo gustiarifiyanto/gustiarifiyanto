@@ -15,6 +15,7 @@ Maaf ya Batur-batur jika dalam penulisan nya belum rapih, masih dalam tahap bela
 - Data Sciene 😰
 - Data Analyst 😮‍💨
 - Business Analyst 🤯
+- Flutter 
 
 # My Tools 🧰
 - Vs Code
